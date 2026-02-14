@@ -1,0 +1,3 @@
+{
+  "serverConfig": "{\"mcpServers\":{\"vscode-agent-todos\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/digitarald-agent-todos\"],\"values\":{}}}}"
+}
