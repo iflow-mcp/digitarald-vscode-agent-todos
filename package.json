@@ -2,7 +2,7 @@
   "name": "@iflow-mcp/digitarald-agent-todos",
   "displayName": "Agent TODOs",
   "description": "Upgrades VS Code's agent mode with persistent memory and workflow management",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "digitarald",
   "bin": {
     "iflow-mcp_digitarald-agent-todos": "./dist/mcp/standalone.js"
